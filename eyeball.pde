@@ -76,5 +76,3 @@ ellipse(220,220,40,50);
 fill(0,0,0);
 ellipse(320,320,40,50);
 
-//save function
-save("ANDYCHEN.Eyeball.Drawing.png");
